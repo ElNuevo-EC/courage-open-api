@@ -1,4 +1,4 @@
-![Veronica Logo](https://raw.githubusercontent.com/rolandopalermo/Veronica/master/static/veronica.jpg)
+![Courage Logo](https://raw.githubusercontent.com/rolandopalermo/Veronica/master/static/veronica.jpg)
 
 [![PayPal Donate](http://ionicabizau.github.io/badges/paypal.svg?style=plastic&colorB=68B7EB)]()
 [![Platforms](https://img.shields.io/badge/plaform-windows%20%7C%20linux%20%7C%20macOS-blue.svg?style=plastic&colorB=68B7EB)]()
